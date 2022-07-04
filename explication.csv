@@ -1,0 +1,12 @@
+name:,Nome do modelo do carro;
+year:,Ano de produção do carro;
+selling_price:,Preço de venda do carro;
+km_driven:,Km rodados;
+fuel:,Tipo de combustível usado pelo carro;
+seller_type:,Tipos de vendedor;
+transmission:,Tipo de transmissão;
+owner:,Dono;
+engine:,Cilindradas do motor;
+max_power:,Potência máxima (em cavalos);
+torque:,Torque do carro (em rotações por minuto);
+seats:, Quantidade de bancos no carro
